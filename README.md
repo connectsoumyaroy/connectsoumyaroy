@@ -6,7 +6,7 @@ I am currently enhancing my skills in data analysis, focusing on extracting acti
 
 ## 👨‍💻 Currently
 - Working as a Data Science Enthusiast
-- Learning Python for Data Analysis
+- Gathering Knowledge for Data Analysis
 
 ## 👀 Interests
 - Data Analyst roles and projects
