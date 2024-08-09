@@ -130,5 +130,6 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 </p>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/140932670/344102802-f5e638fc-000b-4d0d-88f4-5926a2a221e3.gif" width="800" alt="GIF">
+  <img src="https://private-user-images.githubusercontent.com/140932670/344102802-f5e638fc-000b-4d0d-88f4-5926a2a221e3.gif" width="500" alt="Large GIF">
 </p>
+
