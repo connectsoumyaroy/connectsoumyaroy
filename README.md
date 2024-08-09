@@ -46,7 +46,10 @@ I’m currently immersing myself in the world of data analysis, honing my skills
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&theme=radical" alt="Soumya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical" alt="Soumya's GitHub stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
 </p>
 
