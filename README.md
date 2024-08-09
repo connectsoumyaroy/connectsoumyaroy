@@ -24,6 +24,10 @@
 
 <hr>
 
+I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented individual 👩‍💻. With strong moral values and ethics 🙇‍♀️, I maintain high energy levels 🤹‍♀️, excellent communication skills 👐, exceptional organizational skills 👮‍♀️, and meticulous attention 🕵️‍♀️ to detail.
+
+<hr>
+
 ## 🌟 About Me
 
 Hello! I’m **Soumya Roy**, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
@@ -79,9 +83,5 @@ Feel free to connect with me on the following platforms:
 - [Email](mailto:soumyaroyprofessional@gmail.com) ![Email Logo](https://img.icons8.com/ios-filled/50/000000/email.png)
 
 <hr>
-
-## 🎨 Personal Qualities
-
-I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented individual 👩‍💻. With strong moral values and ethics 🙇‍♀️, I maintain high energy levels 🤹‍♀️, excellent communication skills 👐, exceptional organizational skills 👮‍♀️, and meticulous attention 🕵️‍♀️ to detail.
 
 Thank you for visiting my GitHub profile! 🚀
