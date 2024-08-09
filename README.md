@@ -128,7 +128,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="110">
   </a>
   <a href="https://www.kaggle.com/connectsoumyaroy">
-    <img src="https://img.shields.io/badge/Kaggle-%2300C4CC.svg?logo=kaggle&logoColor=white" alt="Kaggle" width="100">
+    <img src="https://img.shields.io/badge/Kaggle-%2300C4CC.svg?logo=kaggle&logoColor=white" alt="Kaggle" width="110">
   </a>
 </p>
 
