@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things+🤝" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
   </a>
 </p>
 
@@ -53,31 +53,76 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 - **Data Analytics**: From foundational concepts to advanced techniques, continually broadening my knowledge.
 - **Advanced Modeling Techniques**: Deepening my understanding of sophisticated analytical methods and machine learning.
 
-## 🔧 Favorite Tools
+## 🛠️ My Favorite Tools
 
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="Python" title="Python" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/pytorch.png" alt="PyTorch" title="PyTorch" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/microsoft-power-bi.png" alt="Power BI" title="Power BI" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/tableau.png" alt="Tableau" title="Tableau" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/excel.png" alt="Excel" title="Excel" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" title="React" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/webpack.png" alt="Webpack" title="Webpack" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="40" />
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
-## 🤝 Connect with Me!
+### 🧰 Frameworks and Libraries
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connectsoumyaroy/) 
-[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:soumyaroyprofessional@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/connectsoumyaroy)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&labelColor=20BEFF&logo=kaggle&logoColor=white)](https://www.kaggle.com/connectsoumyaroy)
+<p>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn%20-%23F7931E.svg?logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%231F77B4.svg?logo=seaborn&logoColor=white"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%2300A3E0.svg?logo=matplotlib&logoColor=white"></a>
+    <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%000000.svg?logo=scipy&logoColor=white"></a>
+</p>
 
-<hr>
+### 🧩 Data Visualization Tools
 
-Thank you for visiting my GitHub profile! 🚀
+<p>
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%230F5C9C.svg?logo=tableau&logoColor=white"></a>
+    <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI%20-%2300A3E0.svg?logo=powerbi&logoColor=white"></a>
+</p>
+
+### 📦 Tools and Technologies
+
+<p>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=jupyter&logoColor=white"></a>
+    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white"></a>
+</p>
+
+## 📈 Stats and Achievements
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Streak Stats" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&theme=radical" alt="GitHub Stats" width="500">
+</p>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/connectsoumyaroy">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
+  </a>
+  <a href="mailto:connectsoumyaroy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="120">
+  </a>
+  <a href="https://github.com/connectsoumyaroy">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="120">
+  </a>
+</p>
+
+## 📑 Highlights
+
+- **LinkedIn:** [Soumya Roy](https://www.linkedin.com/in/connectsoumyaroy)
+- **GitHub:** [Soumya Roy](https://github.com/connectsoumyaroy)
+- **Email:** [connectsoumyaroy@gmail.com](mailto:connectsoumyaroy@gmail.com)
