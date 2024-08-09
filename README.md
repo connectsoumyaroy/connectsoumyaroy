@@ -1,4 +1,7 @@
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">
+Hi, I'm Soumya Roy!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <p align="center">
   <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="100%">
@@ -77,11 +80,5 @@ Feel free to connect with me on the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/connectsoumyaroy/) ![LinkedIn Logo](https://img.icons8.com/ios-filled/50/000000/linkedin.png)
 - [Kaggle](https://www.kaggle.com/connectsoumyaroy) ![Kaggle Logo](https://img.icons8.com/ios-filled/50/000000/kaggle.png)
 - [Email](mailto:soumyaroyprofessional@gmail.com) ![Email Logo](https://img.icons8.com/ios-filled/50/000000/email.png)
-
-## 🛠️ Tools and Technologies
-
-- **Programming Languages**: Python, SQL
-- **Data Visualization**: Tableau, Power BI
-- **Data Analytics**: Excel, R
 
 Thank you for visiting my GitHub profile! 🚀
