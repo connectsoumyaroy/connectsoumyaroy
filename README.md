@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things+🤝" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented in
 
 ## 🌟 About Me
 
-Hello! I’m **Soumya Roy**, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
+Hello! I’m **Soumya Roy** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
 
 Currently pursuing an MS in Data Science, I’m immersing myself in advanced data analysis and machine learning techniques. My goal is to transform complex datasets into actionable insights that drive impactful business decisions.
 
