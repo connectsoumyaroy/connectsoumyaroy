@@ -31,7 +31,10 @@
 I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented individual 👩‍💻. With strong moral values and ethics 🙇‍♀️, I maintain high energy levels 🤹‍♀️, excellent communication skills 👐, exceptional organizational skills 👮‍♀️, and meticulous attention 🕵️‍♀️ to detail.
 
 <hr>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/9fabc0310c0e38185e3df7e964f95df361885e8a938efdaf0c73b72c24b13077/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966" alt="GIF 2" width="350">
 
+</p>
 ## 🌟 About Me
 
 Hello! I’m **Soumya Roy** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
