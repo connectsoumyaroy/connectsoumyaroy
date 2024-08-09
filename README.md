@@ -33,6 +33,9 @@ I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented in
   <img src="https://camo.githubusercontent.com/9fabc0310c0e38185e3df7e964f95df361885e8a938efdaf0c73b72c24b13077/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966" alt="GIF 2" width="350">
 
 </p>
+
+<hr>
+
 ## 🌟 About Me
 
 Hello! I’m **Soumya Roy** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
@@ -47,6 +50,10 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 
 - **Data Science Enthusiast**: Diving deep into data analysis, machine learning, and Python programming.
 - **Learning Path**: Expanding my expertise in advanced analytics, machine learning, and data-driven decision-making.
+- 
+<p align="center">
+   <img src="https://camo.githubusercontent.com/bdf9d2f99271608ec6e7324734281b8116dc1b474904c9798d975a49450c92cc/68747470733a2f2f646f63732e74656c6572696b2e636f6d2f646576746f6f6c732f7770662f636f6e74726f6c732f7261646368617274766965772f66656174757265732f696d616765732f7261646368617274766965772d66656174757265732d616e696d6174696f6e732d6d61696e2d616e696d6174696f6e732e676966" alt="GIF 3" width="350">
+</p>
 
 ## 🔍 Areas of Interest
 
