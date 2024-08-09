@@ -50,23 +50,23 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 - **Data Analytics**: From foundational concepts to advanced techniques, continually broadening my knowledge.
 - **Advanced Modeling Techniques**: Deepening my understanding of sophisticated analytical methods and machine learning.
 
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectsoumyaroy&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-
 ## 🔧 Favorite Tools
 
-- **Programming Languages**: Python, SQL
-- **Data Visualization**: Tableau, Power BI
-- **Data Analytics**: Excel, R
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="Python" title="Python" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/pytorch.png" alt="PyTorch" title="PyTorch" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/microsoft-power-bi.png" alt="Power BI" title="Power BI" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/tableau.png" alt="Tableau" title="Tableau" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/excel.png" alt="Excel" title="Excel" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" title="React" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/webpack.png" alt="Webpack" title="Webpack" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="40" />
+</p>
 
 ## 🤝 Connect with Me!
 
