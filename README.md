@@ -127,11 +127,8 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
   <a href="https://github.com/connectsoumyaroy">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="110">
   </a>
- <a href="https://www.kaggle.com/connectsoumyaroy">
-    <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/kaggle.png" alt="Kaggle Logo"/>
-    **Kaggle**: [@connectsoumyaroy](https://www.kaggle.com/connectsoumyaroy)
+  <a href="https://www.kaggle.com/connectsoumyaroy">
+    <img src="https://img.shields.io/badge/Kaggle-%2300C4CC.svg?logo=kaggle&logoColor=white" alt="Kaggle" width="100">
   </a>
 </p>
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/140932670/344102802-f5e638fc-000b-4d0d-88f4-5926a2a221e3.gif" width="500" alt="Large GIF">
-</p>
+
