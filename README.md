@@ -22,6 +22,8 @@
   <img src="https://camo.githubusercontent.com/bdf9d2f99271608ec6e7324734281b8116dc1b474904c9798d975a49450c92cc/68747470733a2f2f646f63732e74656c6572696b2e636f6d2f646576746f6f6c732f7770662f636f6e74726f6c732f7261646368617274766965772f66656174757265732f696d616765732f7261646368617274766965772d66656174757265732d616e696d6174696f6e732d6d61696e2d616e696d6174696f6e732e676966" alt="GIF 3" width="350">
 </p>
 
+<hr>
+
 ## 🌟 About Me
 
 Hello! I’m **Soumya Roy**, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
@@ -76,8 +78,10 @@ Feel free to connect with me on the following platforms:
 - [Kaggle](https://www.kaggle.com/connectsoumyaroy) ![Kaggle Logo](https://img.icons8.com/ios-filled/50/000000/kaggle.png)
 - [Email](mailto:soumyaroyprofessional@gmail.com) ![Email Logo](https://img.icons8.com/ios-filled/50/000000/email.png)
 
+<hr>
+
 ## 🎨 Personal Qualities
 
-I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented individual 👩‍💻. With strong moral values and ethics 🙇‍♀️, I maintain high energy levels 🤹‍♀️, excellent communication skills 👐, exceptional organizational skills 👮‍♀️, and a meticulous attention 🕵️‍♀️ to detail.
+I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented individual 👩‍💻. With strong moral values and ethics 🙇‍♀️, I maintain high energy levels 🤹‍♀️, excellent communication skills 👐, exceptional organizational skills 👮‍♀️, and meticulous attention 🕵️‍♀️ to detail.
 
 Thank you for visiting my GitHub profile! 🚀
