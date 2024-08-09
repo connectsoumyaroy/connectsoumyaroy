@@ -1,136 +1,26 @@
-<h1 align="center">
-  <a href="https://www.linkedin.com/in/connectsoumyaroy/" target="_blank">
-    <span class="wave">👋</span> Welcome to My GitHub Profile!
-  </a>
-</h1>
+# 👋 Welcome to My GitHub Profile!
 
-<!-- Thumbnail Section -->
 <p align="center">
-  <img id="thumbnail" src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image">
+  <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="100%">
 </p>
 
-<!-- Header Animation -->
-<style>
-/* Animation Keyframes */
-@keyframes slide {
-  0% { transform: translateX(0%); }
-  50% { transform: translateX(20%); }
-  100% { transform: translateX(0%); }
-}
+## 🎥 Featured GIFs
 
-@keyframes wave {
-  0% { transform: rotate(0.0deg); }
-  10% { transform: rotate(14.0deg); }
-  20% { transform: rotate(-8.0deg); }
-  30% { transform: rotate(14.0deg); }
-  40% { transform: rotate(-4.0deg); }
-  50% { transform: rotate(10.0deg); }
-  60% { transform: rotate(0.0deg); }
-  100% { transform: rotate(0.0deg); }
-}
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif" alt="GIF 1" width="300">
+</p>
 
-@keyframes pulse {
-  0% { opacity: 0.5; }
-  50% { opacity: 1; }
-  100% { opacity: 0.5; }
-}
+<p align="center">
+  <img src="https://camo.githubusercontent.com/9fabc0310c0e38185e3df7e964f95df361885e8a938efdaf0c73b72c24b13077/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966" alt="GIF 2" width="300">
+</p>
 
-@keyframes rotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
+<p align="center">
+  <img src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="GIF 3" width="300">
+</p>
 
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-/* Header Animation */
-h1 a {
-  display: inline-block;
-  animation: slide 5s infinite ease-in-out;
-  text-decoration: none;
-  color: #000;
-}
-
-h1 a:hover {
-  color: #0073e6;
-}
-
-.wave {
-  animation: wave 1.5s infinite;
-  display: inline-block;
-  transform-origin: 70% 70%;
-}
-
-/* Scrolling Name Tag */
-.scrolling-name {
-  display: inline-block;
-  padding: 5px 10px;
-  background-color: #f0f0f0;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  animation: slide 10s infinite linear;
-  font-weight: bold;
-  color: #333;
-}
-
-/* Animated Text */
-h2 {
-  animation: fadeIn 2s ease-in-out;
-}
-
-/* Motion Graphics */
-.motion-graphic {
-  animation: bounce 2s infinite;
-  display: inline-block;
-}
-
-/* Profile Picture Animation */
-#profile-pic {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  border: 5px solid #0073e6;
-  display: block;
-  margin: 0 auto;
-  animation: rotate 10s linear infinite;
-}
-
-/* Thumbnail */
-#thumbnail {
-  width: 100%;
-  height: auto;
-  border: 3px solid #0073e6;
-  border-radius: 10px;
-}
-
-/* Stats Section */
-.stats-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-}
-
-.stats-container img {
-  border-radius: 10px;
-}
-
-/* Connect with Me Logo */
-.connect-logo {
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-  display: inline-block;
-  margin-right: 10px;
-}
-</style>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/bdf9d2f99271608ec6e7324734281b8116dc1b474904c9798d975a49450c92cc/68747470733a2f2f646f63732e74656c6572696b2e636f6d2f646576746f6f6c732f7770662f636f6e74726f6c732f7261646368617274766965772f66656174757265732f696d616765732f7261646368617274766965772d66656174757265732d616e696d6174696f6e732d6d61696e2d616e696d6174696f6e732e676966" alt="GIF 4" width="300">
+</p>
 
 ## 🌟 About Me
 
@@ -155,10 +45,10 @@ I’m currently immersing myself in the world of data analysis, honing my skills
 
 ## 📊 GitHub Stats
 
-<div class="stats-container">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&theme=radical" alt="Soumya's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
-</div>
+</p>
 
 ## 🌍 Profile Views
 
@@ -168,7 +58,7 @@ I’m currently immersing myself in the world of data analysis, honing my skills
 
 ## 🏷️ Scrolling Name Tag
 
-<div class="scrolling-name">Soumya Roy - Data Enthusiast</div>
+**Soumya Roy - Data Enthusiast**
 
 ## 🔧 Favorite Tools
 
@@ -176,27 +66,19 @@ I’m currently immersing myself in the world of data analysis, honing my skills
 - **Data Visualization**: Tableau, Power BI
 - **Data Analytics**: Excel, R
 
-## 📝 Logs
-
-<!-- Add logs or recent activities here -->
-
 ## 🤝 Connect with Me!
 
 Feel free to connect with me on the following platforms:
 
-- <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Logo"/> **GitHub**: [@connectsoumyaroy](https://github.com/connectsoumyaroy)
-- <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Logo"/> **LinkedIn**: [Connect with me](https://www.linkedin.com/in/connectsoumyaroy/)
-- <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/kaggle.png" alt="Kaggle Logo"/> **Kaggle**: [@connectsoumyaroy](https://www.kaggle.com/connectsoumyaroy)
-- <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Logo"/> **Email**: [soumyaroyprofessional@gmail.com](mailto:soumyaroyprofessional@gmail.com)
+- [GitHub](https://github.com/connectsoumyaroy) ![GitHub Logo](https://img.icons8.com/ios-filled/50/000000/github.png)
+- [LinkedIn](https://www.linkedin.com/in/connectsoumyaroy/) ![LinkedIn Logo](https://img.icons8.com/ios-filled/50/000000/linkedin.png)
+- [Kaggle](https://www.kaggle.com/connectsoumyaroy) ![Kaggle Logo](https://img.icons8.com/ios-filled/50/000000/kaggle.png)
+- [Email](mailto:soumyaroyprofessional@gmail.com) ![Email Logo](https://img.icons8.com/ios-filled/50/000000/email.png)
 
 ## 🛠️ Tools and Technologies
 
 - **Programming Languages**: Python, SQL
 - **Data Visualization**: Tableau, Power BI
 - **Data Analytics**: Excel, R
-
-## 🛠️ Additional Information
-
-<!-- Add any additional information or sections here -->
 
 Thank you for visiting my GitHub profile! 🚀
