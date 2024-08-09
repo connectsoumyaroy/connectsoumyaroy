@@ -136,7 +136,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
   <a href="mailto:connectsoumyaroy@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="100">
   </a>
-  <a href="https://github.com/connectsoumyaroy">
+  <a href="https://github.com/connectsroy">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="110">
   </a>
   <a href="https://www.kaggle.com/connectsoumyaroy">
