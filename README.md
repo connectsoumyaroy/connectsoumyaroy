@@ -64,7 +64,11 @@ I’m currently immersing myself in the world of data analysis, honing my skills
 
 ## 🏷️ Scrolling Name Tag
 
-**Soumya Roy - Data Enthusiast**
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Enthusiast;Python+|+SQL+|+Data+Visualization;Always+Learning+New+Things&center=true&width=380&height=45" alt="Scrolling Name Tag" />
+  </a>
+</p>
 
 ## 🔧 Favorite Tools
 
