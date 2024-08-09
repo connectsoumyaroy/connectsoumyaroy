@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="80%">
+  <img src="https://github.com/connectsoumyaroy/connectsoumyaroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="80%">
 </p>
 
 <p align="center">
@@ -81,57 +81,37 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
     </a>   
     <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>  
-    <a href="#">
-        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/82979a2b-ba4b-44f4-b570-2687106559f4" alt="excel" width="40" height="40"/>
-    </a>  
-    <a href="#">
-        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/2975ca78-e47b-4bb6-8413-e2552dbec35f" alt="Tableau" width="40" height="40"/>
     </a>   
     <a href="#">
-        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/b1b21ba7-d5d5-4dd4-91da-bfd875766a11" alt="PowerBI" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="40" height="40"/>
+    </a>   
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
+    </a>   
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
     </a>
     <a href="#">
-        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/d97d3f79-5a08-461f-88b6-c91f62e94bd8" alt="R" width="40" height="40"/>
-    </a> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="40" height="40"/>
+    </a>   
 </p>
 
-### 🧩 Data Visualization Tools
-
-<p>
-    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%230F5C9C.svg?logo=tableau&logoColor=white"></a>
-    <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI%20-%2300A3E0.svg?logo=powerbi&logoColor=white"></a>
-</p>
-
-### 📦 Tools and Technologies
-
-<p>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=jupyter&logoColor=white"></a>
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white"></a>
-</p>
-
-## 🌐 Connect with Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/connectsoumyaroy">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
-  </a>
-  <a href="mailto:connectsoumyaroy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="100">
-  </a>
-  <a href="https://github.com/connectsoumyaroy">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="110">
-  </a>
-  <a  
-  - <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/kaggle.png" alt="Kaggle Logo"/> **Kaggle**: [@connectsoumyaroy](https://www.kaggle.com/connectsoumyaroy)
+  <img src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&line_height=21&hide_rank=false&custom_title=My%20GitHub%20Stats&theme=dark" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/140932670/344102802-f5e638fc-000b-4d0d-88f4-5926a2a221e3.gif" width="500" alt="Large GIF">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=dark" alt="GitHub Streak">
 </p>
 
+## 💬 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/connectsoumyaroy)
+- [Kaggle](https://www.kaggle.com/connectsoumyaroy)
+- [Twitter](https://twitter.com/connectsoumyaroy)
+
+---
+
+*Feel free to explore my GitHub repositories and connect with me on LinkedIn and Kaggle!*
