@@ -68,6 +68,12 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
   <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="40" />
 </p>
 
+## 🏆 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
+</p>
+
 ## 🤝 Connect with Me!
 
 Feel free to connect with me on the following platforms:
