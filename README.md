@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A72D&center=true&vCenter=true&width=500&height=60&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Evolving+and+Exploring" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #F7A72D; font-size: 30px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Constantly+Acquiring+New+Knowledge" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
   </a>
 </p>
 
