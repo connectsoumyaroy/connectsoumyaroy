@@ -57,20 +57,41 @@ Currently, I’m diving deep into data science, machine learning, and advanced a
 <p align="left">
 ## 🔧 Favorite Tools
 
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="Python" title="Python" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/pytorch.png" alt="PyTorch" title="PyTorch" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/microsoft-power-bi.png" alt="Power BI" title="Power BI" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/tableau.png" alt="Tableau" title="Tableau" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/excel.png" alt="Excel" title="Excel" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" title="React" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/webpack.png" alt="Webpack" title="Webpack" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="40" />
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+</p>
+
+### 🛠️ Tools
+
+<p>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Adocker"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Agit"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aconnectsoumyaroy+is%3Arepo+language%3Awebpack"><img alt="Webpack" src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?logo=webpack&logoColor=white"></a>
 </p>
 
 <p align="center">
