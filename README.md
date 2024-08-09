@@ -2,19 +2,14 @@
   <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" width="100" />
 </p>
 
-<h1 align="center">
-Hi, I'm Soumya Roy! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;AI+|+ML+|+Python+|+SQL;Always+Evolving+and+Exploring&center=true&width=500&height=60" alt="Scrolling Name Tag" />
-  </a>
+  <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="80%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="80%">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A72D&center=true&vCenter=true&width=500&height=60&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;AI+|+ML+|+Python+|+SQL;Always+Evolving+and+Exploring" alt="Scrolling Name Tag" />
+  </a>
 </p>
 
 <p align="center">
@@ -27,13 +22,11 @@ Hi, I'm Soumya Roy!
   <img src="https://camo.githubusercontent.com/bdf9d2f99271608ec6e7324734281b8116dc1b474904c9798d975a49450c92cc/68747470733a2f2f646f63732e74656c6572696b2e636f6d2f646576746f6f6c732f7770662f636f6e74726f6c732f7261646368617274766965772f66656174757265732f696d616765732f7261646368617274766965772d66656174757265732d616e696d6174696f6e732d6d61696e2d616e696d6174696f6e732e676966" alt="GIF 3" width="350">
 </p>
 
-<p align="left">
 ## 🌟 About Me
 
-Hi there! I’m **Soumya Roy**, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
+Hello! I’m **Soumya Roy**, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
 
 Currently pursuing an MS in Data Science, I’m immersing myself in advanced data analysis and machine learning techniques. My goal is to transform complex datasets into actionable insights that drive impactful business decisions.
-</p>
 
 ## 🚀 What I’m Working On
 
@@ -82,5 +75,9 @@ Feel free to connect with me on the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/connectsoumyaroy/) ![LinkedIn Logo](https://img.icons8.com/ios-filled/50/000000/linkedin.png)
 - [Kaggle](https://www.kaggle.com/connectsoumyaroy) ![Kaggle Logo](https://img.icons8.com/ios-filled/50/000000/kaggle.png)
 - [Email](mailto:soumyaroyprofessional@gmail.com) ![Email Logo](https://img.icons8.com/ios-filled/50/000000/email.png)
+
+## 🎨 Personal Qualities
+
+I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented individual 👩‍💻. With strong moral values and ethics 🙇‍♀️, I maintain high energy levels 🤹‍♀️, excellent communication skills 👐, exceptional organizational skills 👮‍♀️, and a meticulous attention 🕵️‍♀️ to detail.
 
 Thank you for visiting my GitHub profile! 🚀
