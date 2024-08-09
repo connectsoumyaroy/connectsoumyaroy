@@ -21,9 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif" alt="GIF 1" width="350">
- 
-  <img src="https://camo.githubusercontent.com/bdf9d2f99271608ec6e7324734281b8116dc1b474904c9798d975a49450c92cc/68747470733a2f2f646f63732e74656c6572696b2e636f6d2f646576746f6f6c732f7770662f636f6e74726f6c732f7261646368617274766965772f66656174757265732f696d616765732f7261646368617274766965772d66656174757265732d616e696d6174696f6e732d6d61696e2d616e696d6174696f6e732e676966" alt="GIF 3" width="350">
+   <img src="https://camo.githubusercontent.com/bdf9d2f99271608ec6e7324734281b8116dc1b474904c9798d975a49450c92cc/68747470733a2f2f646f63732e74656c6572696b2e636f6d2f646576746f6f6c732f7770662f636f6e74726f6c732f7261646368617274766965772f66656174757265732f696d616765732f7261646368617274766965772d66656174757265732d616e696d6174696f6e732d6d61696e2d616e696d6174696f6e732e676966" alt="GIF 3" width="350">
 </p>
 
 <hr>
@@ -44,6 +42,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 <p align="center">
    <img src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif" alt="GIF 1" width="350">
 </p> 
+
 ## 🚀 What I’m Working On
 
 - **Data Science Enthusiast**: Diving deep into data analysis, machine learning, and Python programming.
