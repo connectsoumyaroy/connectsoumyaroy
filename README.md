@@ -9,7 +9,7 @@ Hi, I'm Soumya Roy!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;AI+|+ML+|+Python+|+SQL;Always+Evolving+and+Exploring&center=true&width=380&height=45" alt="Scrolling Name Tag" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;AI+|+ML+|+Python+|+SQL;Always+Evolving+and+Exploring&center=true&width=500&height=60" alt="Scrolling Name Tag" />
   </a>
 </p>
 
