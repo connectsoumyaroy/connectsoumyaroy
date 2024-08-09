@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A72D&center=true&vCenter=true&width=500&height=60&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;AI+|+ML+|+Python+|+SQL;Always+Evolving+and+Exploring" alt="Scrolling Name Tag" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A72D&center=true&vCenter=true&width=500&height=60&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Evolving+and+Exploring" alt="Scrolling Name Tag" />
   </a>
 </p>
 
@@ -65,12 +65,6 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
   <img src="https://img.icons8.com/ios-filled/50/000000/webpack.png" alt="Webpack" title="Webpack" width="40" />
   <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" width="40" />
   <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="40" />
-</p>
-
-## 🏆 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
 </p>
 
 ## 🤝 Connect with Me!
