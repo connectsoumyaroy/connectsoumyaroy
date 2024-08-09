@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things+🤝" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
   </a>
 </p>
 
@@ -70,16 +70,33 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and Libraries
+### 💻 Languages and Tools
 
-<p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn%20-%23F7931E.svg?logo=scikit-learn&logoColor=white"></a>
-    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%231F77B4.svg?logo=seaborn&logoColor=white"></a>
-    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%2300A3E0.svg?logo=matplotlib&logoColor=white"></a>
-    <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%2300A3E0.svg?logo=scipy&logoColor=white"></a>
+<p align="left">
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>   
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>   
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>  
+    <a href="#">
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/82979a2b-ba4b-44f4-b570-2687106559f4" alt="excel" width="40" height="40"/>
+    </a>  
+    <a href="#">
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/2975ca78-e47b-4bb6-8413-e2552dbec35f" alt="Tableau" width="40" height="40"/>
+    </a>   
+    <a href="#">
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/b1b21ba7-d5d5-4dd4-91da-bfd875766a11" alt="PowerBI" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/d97d3f79-5a08-461f-88b6-c91f62e94bd8" alt="R" width="40" height="40"/>
+    </a> 
 </p>
 
 ### 🧩 Data Visualization Tools
