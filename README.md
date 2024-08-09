@@ -6,9 +6,10 @@
 
 <!-- Thumbnail Section -->
 <p align="center">
-  <img id="thumbnail" src="https://via.placeholder.com/600x300" alt="Thumbnail Image">
+  <img id="thumbnail" src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image">
 </p>
 
+<!-- Header Animation -->
 <style>
 /* Animation Keyframes */
 @keyframes slide {
@@ -73,6 +74,29 @@ h1 a:hover {
   transform-origin: 70% 70%;
 }
 
+/* Scrolling Name Tag */
+.scrolling-name {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  animation: slide 10s infinite linear;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Animated Text */
+h2 {
+  animation: fadeIn 2s ease-in-out;
+}
+
+/* Motion Graphics */
+.motion-graphic {
+  animation: bounce 2s infinite;
+  display: inline-block;
+}
+
 /* Profile Picture Animation */
 #profile-pic {
   width: 150px;
@@ -92,17 +116,6 @@ h1 a:hover {
   border-radius: 10px;
 }
 
-/* Animated Text */
-h2 {
-  animation: fadeIn 2s ease-in-out;
-}
-
-/* Motion Graphics */
-.motion-graphic {
-  animation: bounce 2s infinite;
-  display: inline-block;
-}
-
 /* Stats Section */
 .stats-container {
   display: flex;
@@ -113,6 +126,15 @@ h2 {
 
 .stats-container img {
   border-radius: 10px;
+}
+
+/* Connect with Me Logo */
+.connect-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
 }
 </style>
 
@@ -150,14 +172,28 @@ I’m currently immersing myself in the world of data analysis, honing my skills
   <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
+## 🏷️ Scrolling Name Tag
+
+<div class="scrolling-name">Soumya Roy - Data Enthusiast</div>
+
+## 🔧 Favorite Tools
+
+- **Programming Languages**: Python, SQL
+- **Data Visualization**: Tableau, Power BI
+- **Data Analytics**: Excel, R
+
+## 📝 Logs
+
+<!-- Add logs or recent activities here -->
+
 ## 🤝 Connect with Me!
 
 Feel free to connect with me on the following platforms:
 
-- **GitHub**: [@connectsoumyaroy](https://github.com/connectsoumyaroy)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/connectsoumyaroy/)
-- **Kaggle**: [@soumyaroy](https://www.kaggle.com/soumyaroy)
-- **Email**: [soumyaroyprofessional@gmail.com](mailto:soumyaroyprofessional@gmail.com)
+- <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Logo"/> **GitHub**: [@connectsoumyaroy](https://github.com/connectsoumyaroy)
+- <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Logo"/> **LinkedIn**: [Connect with me](https://www.linkedin.com/in/connectsoumyaroy/)
+- <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/kaggle.png" alt="Kaggle Logo"/> **Kaggle**: [@connectsoumyaroy](https://www.kaggle.com/connectsoumyaroy)
+- <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Logo"/> **Email**: [soumyaroyprofessional@gmail.com](mailto:soumyaroyprofessional@gmail.com)
 
 ## 🛠️ Tools and Technologies
 
