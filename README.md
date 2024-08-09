@@ -46,11 +46,16 @@ I’m currently immersing myself in the world of data analysis, honing my skills
 - **Data Analytics**: From basics to advanced strategies, expanding my knowledge base.
 - **Advanced Modeling Techniques**: Deepening my understanding of sophisticated analytical methods.
 
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical" alt="Soumya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectsoumyaroy&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </p>
 
 ## 🔧 Favorite Tools
