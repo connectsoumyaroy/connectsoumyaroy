@@ -75,12 +75,10 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 
 ## 🤝 Connect with Me!
 
-Feel free to connect with me on the following platforms:
-
-- [GitHub](https://github.com/connectsoumyaroy) ![GitHub Logo](https://img.icons8.com/ios-filled/50/000000/github.png)
-- [LinkedIn](https://www.linkedin.com/in/connectsoumyaroy/) ![LinkedIn Logo](https://img.icons8.com/ios-filled/50/000000/linkedin.png)
-- [Kaggle](https://www.kaggle.com/connectsoumyaroy) ![Kaggle Logo](https://img.icons8.com/ios-filled/50/000000/kaggle.png)
-- [Email](mailto:soumyaroyprofessional@gmail.com) ![Email Logo](https://img.icons8.com/ios-filled/50/000000/email.png)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connectsoumyaroy/) 
+[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:soumyaroyprofessional@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/connectsoumyaroy)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&labelColor=20BEFF&logo=kaggle&logoColor=white)](https://www.kaggle.com/connectsoumyaroy)
 
 <hr>
 
