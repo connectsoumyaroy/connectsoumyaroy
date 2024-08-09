@@ -127,6 +127,8 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
   <a href="https://github.com/connectsoumyaroy">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="110">
   </a>
+  <a  
+  - <img class="connect-logo" src="https://img.icons8.com/ios-filled/50/000000/kaggle.png" alt="Kaggle Logo"/> **Kaggle**: [@connectsoumyaroy](https://www.kaggle.com/connectsoumyaroy)
 </p>
 
 <p align="center">
