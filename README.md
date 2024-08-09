@@ -1,8 +1,124 @@
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/connectsoumyaroy/" target="_blank">
+    <span class="wave">👋</span> Welcome to My GitHub Profile!
+  </a>
+</h1>
 
-Hi there! I’m **Soumya Roy**, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
+<!-- Thumbnail Section -->
+<p align="center">
+  <img id="thumbnail" src="https://via.placeholder.com/600x300" alt="Thumbnail Image">
+</p>
+
+<style>
+/* Animation Keyframes */
+@keyframes slide {
+  0% {
+    transform: translateX(0%);
+  }
+  50% {
+    transform: translateX(20%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+@keyframes wave {
+  0% { transform: rotate(0.0deg); }
+  10% { transform: rotate(14.0deg); }
+  20% { transform: rotate(-8.0deg); }
+  30% { transform: rotate(14.0deg); }
+  40% { transform: rotate(-4.0deg); }
+  50% { transform: rotate(10.0deg); }
+  60% { transform: rotate(0.0deg); }
+  100% { transform: rotate(0.0deg); }
+}
+
+@keyframes pulse {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
+}
+
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Header Animation */
+h1 a {
+  display: inline-block;
+  animation: slide 5s infinite ease-in-out;
+  text-decoration: none;
+  color: #000;
+}
+
+h1 a:hover {
+  color: #0073e6;
+}
+
+.wave {
+  animation: wave 1.5s infinite;
+  display: inline-block;
+  transform-origin: 70% 70%;
+}
+
+/* Profile Picture Animation */
+#profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #0073e6;
+  display: block;
+  margin: 0 auto;
+  animation: rotate 10s linear infinite;
+}
+
+/* Thumbnail */
+#thumbnail {
+  width: 100%;
+  height: auto;
+  border: 3px solid #0073e6;
+  border-radius: 10px;
+}
+
+/* Animated Text */
+h2 {
+  animation: fadeIn 2s ease-in-out;
+}
+
+/* Motion Graphics */
+.motion-graphic {
+  animation: bounce 2s infinite;
+  display: inline-block;
+}
+
+/* Stats Section */
+.stats-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.stats-container img {
+  border-radius: 10px;
+}
+</style>
 
 ## 🌟 About Me
+
+Hi there! I’m **Soumya Roy**, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
 
 I’m currently immersing myself in the world of data analysis, honing my skills in Python, and exploring advanced data modeling techniques. My goal is to turn complex datasets into actionable insights that drive meaningful business decisions.
 
@@ -21,11 +137,36 @@ I’m currently immersing myself in the world of data analysis, honing my skills
 - **Data Analytics**: From basics to advanced strategies, expanding my knowledge base.
 - **Advanced Modeling Techniques**: Deepening my understanding of sophisticated analytical methods.
 
-## 🤝 Let’s Connect!
+## 📊 GitHub Stats
 
-I’m eager to collaborate, share insights, and learn from the vibrant data community. Feel free to reach out if you’re interested in working together on data-driven projects or just want to chat about data science!
+<div class="stats-container">
+  <img src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&theme=radical" alt="Soumya's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
+</div>
 
-- **Email**: [soumyaroyprofessional@gmail.com](mailto:soumyaroyprofessional@gmail.com)
+## 🌍 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+## 🤝 Connect with Me!
+
+Feel free to connect with me on the following platforms:
+
+- **GitHub**: [@connectsoumyaroy](https://github.com/connectsoumyaroy)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/connectsoumyaroy/)
+- **Kaggle**: [@soumyaroy](https://www.kaggle.com/soumyaroy)
+- **Email**: [soumyaroyprofessional@gmail.com](mailto:soumyaroyprofessional@gmail.com)
+
+## 🛠️ Tools and Technologies
+
+- **Programming Languages**: Python, SQL
+- **Data Visualization**: Tableau, Power BI
+- **Data Analytics**: Excel, R
+
+## 🛠️ Additional Information
+
+<!-- Add any additional information or sections here -->
 
 Thank you for visiting my GitHub profile! 🚀
