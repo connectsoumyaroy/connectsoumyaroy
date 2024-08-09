@@ -14,10 +14,6 @@ Hi, I'm Soumya Roy!
 </p>
 
 <p align="center">
-  <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="80%">
-</p>
-
-<p align="center">
   <img src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Central GIF" width="600">
 </p>
 
@@ -27,29 +23,38 @@ Hi, I'm Soumya Roy!
   <img src="https://camo.githubusercontent.com/bdf9d2f99271608ec6e7324734281b8116dc1b474904c9798d975a49450c92cc/68747470733a2f2f646f63732e74656c6572696b2e636f6d2f646576746f6f6c732f7770662f636f6e74726f6c732f7261646368617274766965772f66656174757265732f696d616765732f7261646368617274766965772d66656174757265732d616e696d6174696f6e732d6d61696e2d616e696d6174696f6e732e676966" alt="GIF 3" width="350">
 </p>
 
+<hr />
+
 <p align="left">
 ## 🌟 About Me
 
-Hi there! I’m **Soumya Roy**, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
+Hi there! I’m **Soumya Roy**, a passionate data enthusiast and MS Data Science student. With a unique blend of experience in supply chain management and a fervent interest in data analysis, I bring a strategic mindset and problem-solving skills to every project.
 
-Currently pursuing an MS in Data Science, I’m immersing myself in advanced data analysis and machine learning techniques. My goal is to transform complex datasets into actionable insights that drive impactful business decisions.
+Currently, I’m diving deep into data science, machine learning, and advanced analytics. My aim is to transform complex datasets into actionable insights that drive impactful business decisions.
 </p>
 
+<p align="left">
 ## 🚀 What I’m Working On
 
 - **Data Science Enthusiast**: Diving deep into data analysis, machine learning, and Python programming.
-- **Learning Path**: Expanding my expertise in advanced analytics, machine learning, and data-driven decision-making.
+- **Learning Path**: Expanding my expertise in advanced analytics and data-driven decision-making.
+</p>
 
+<p align="left">
 ## 🔍 Areas of Interest
 
 - **Data Analyst Roles**: Seeking opportunities to apply my analytical skills and contribute to meaningful projects.
 - **Data-Driven Projects**: Eager to collaborate on projects that leverage data to address real-world challenges.
+</p>
 
+<p align="left">
 ## 📚 Currently Learning
 
 - **Data Analytics**: From foundational concepts to advanced techniques, continually broadening my knowledge.
 - **Advanced Modeling Techniques**: Deepening my understanding of sophisticated analytical methods and machine learning.
+</p>
 
+<p align="left">
 ## 🔧 Favorite Tools
 
 <p align="left">
@@ -68,12 +73,13 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
   <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="40" />
 </p>
 
+<p align="center">
 ## 🏆 GitHub Streak Stats
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&theme=radical" alt="Soumya's GitHub streak" />
 </p>
 
+<p align="left">
 ## 🤝 Connect with Me!
 
 Feel free to connect with me on the following platforms:
@@ -84,3 +90,4 @@ Feel free to connect with me on the following platforms:
 - [Email](mailto:soumyaroyprofessional@gmail.com) ![Email Logo](https://img.icons8.com/ios-filled/50/000000/email.png)
 
 Thank you for visiting my GitHub profile! 🚀
+</p>
