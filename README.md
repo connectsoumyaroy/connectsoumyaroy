@@ -133,7 +133,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
   <a href="https://www.linkedin.com/in/connectsoumyaroy">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
   </a>
-  <a href="mailto:connectsoumyaroy@gmail.com">
+  <a href="mailto:soumyaroyprofessional@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="100">
   </a>
   <a href="https://github.com/connectsroy">
