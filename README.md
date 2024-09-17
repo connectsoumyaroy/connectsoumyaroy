@@ -65,6 +65,10 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 - **Data Analytics**: From foundational concepts to advanced techniques, continually broadening my knowledge.
 - **Advanced Modeling Techniques**: Deepening my understanding of sophisticated analytical methods and machine learning.
 
+- <p align="center">
+   <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" alt="GIF 3" width="500">
+</p>
+
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
