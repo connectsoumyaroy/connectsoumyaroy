@@ -30,7 +30,7 @@ I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented in
 
 <hr>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="GIF 2" width="500">
+  <img src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" alt="GIF 2" width="500">
 
 </p>
 
