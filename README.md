@@ -22,6 +22,8 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Central GIF" width="600">
 </p>
 
+
+
 <hr>
 
 I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented individual 👩‍💻. With strong moral values and ethics 🙇‍♀️, I maintain high energy levels 🤹‍♀️, excellent communication skills 👐, exceptional organizational skills 👮‍♀️, and meticulous attention 🕵️‍♀️ to detail.
@@ -29,6 +31,7 @@ I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented in
 <hr>
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" alt="GIF 2" width="500">
+
 </p>
 
 <hr>
@@ -62,7 +65,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 - **Data Analytics**: From foundational concepts to advanced techniques, continually broadening my knowledge.
 - **Advanced Modeling Techniques**: Deepening my understanding of sophisticated analytical methods and machine learning.
 
-<p align="center">
+- <p align="center">
    <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" alt="GIF 3" width="400">
 </p>
 
@@ -83,17 +86,50 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connectsoumyaroy" alt="connectsoumyaroy" /></a> </p>
+### 💻 Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connectsoumyaroy&show_icons=true&locale=en&layout=compact" alt="connectsoumyaroy" /></p>
+<p align="left">
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>   
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>   
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>  
+    <a href="#">
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/82979a2b-ba4b-44f4-b570-2687106559f4" alt="excel" width="40" height="40"/>
+    </a>  
+    <a href="#">
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/2975ca78-e47b-4bb6-8413-e2552dbec35f" alt="Tableau" width="40" height="40"/>
+    </a>   
+    <a href="#">
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/b1b21ba7-d5d5-4dd4-91da-bfd875766a11" alt="PowerBI" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/d97d3f79-5a08-461f-88b6-c91f62e94bd8" alt="R" width="40" height="40"/>
+    </a> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&locale=en" alt="connectsoumyaroy" /></p>
+### 🧩 Data Visualization Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&" alt="connectsoumyaroy" /></p>
+<p>
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%230F5C9C.svg?logo=tableau&logoColor=white"></a>
+    <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI%20-%2300A3E0.svg?logo=powerbi&logoColor=white"></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/connectsoumyaroy/connectsoumyaroy/output/snake.svg" alt="Snake animation" />
+### 📦 Tools and Technologies
 
-<hr>
+<p>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=jupyter&logoColor=white"></a>
+    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white"></a>
+</p>
 
 ## 🌐 Connect with Me
 
