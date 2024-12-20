@@ -136,7 +136,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Lets Connect:</h3>
 <p align="left">
 </p>
 
@@ -145,6 +145,10 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&locale=en" alt="connectsoumyaroy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&" alt="connectsoumyaroy" /></p>
+
+<img src="https://raw.githubusercontent.com/connectsoumyaroy/connectsoumyaroy/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Connect with Me
 
