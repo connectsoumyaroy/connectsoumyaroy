@@ -1,6 +1,3 @@
-Here is the merged code where the content from the second code has been added just before the **Connect with Me** section of the first code. 
-
-```html
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" width="100" />
 </p>
@@ -111,9 +108,6 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="110">
   </a>
   <a href="https://www.kaggle.com/connectsoumyaroy">
-    <img src="https://img.shields.io/badge/Kaggle-%2300C
-
-4CC.svg?logo=kaggle&logoColor=white" alt="Kaggle" width="100">
+    <img src="https://img.shields.io/badge/Kaggle-%2300C4CC.svg?logo=kaggle&logoColor=white" alt="Kaggle" width="100">
   </a>
 </p>
-```
