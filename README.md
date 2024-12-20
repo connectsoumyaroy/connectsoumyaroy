@@ -144,9 +144,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&locale=en" alt="connectsoumyaroy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connectsoumyaroy&" alt="connectsoumyaroy" /></p>
 
-<img src="https://raw.githubusercontent.com/connectsoumyaroy/connectsoumyaroy/output/snake.svg" alt="Snake animation" />
 
 ###
 
