@@ -132,8 +132,6 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&label=Profile%20views&color=0e75b6&style=flat" alt="connectsoumyaroy" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connectsoumyaroy" alt="connectsoumyaroy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
