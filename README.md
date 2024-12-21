@@ -152,7 +152,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 
 <p align="center">
   <a href="https://connectsoumyaroy.github.io/">
-    <img src="https://img.icons8.com/?size=100&id=111593&format=png&color=000000" alt="LinkedIn" width="120" height="120">
+    <img src="https://icons8.com/icon/AfM2kzPzTz6Q/portfolio" alt="LinkedIn" width="120" height="120">
   </a>
   <a href="https://www.linkedin.com/in/connectsoumyaroy">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="120">
