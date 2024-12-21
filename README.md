@@ -151,8 +151,6 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://connectsoumyaroy.github.io/">
-    <a href="https://www.flaticon.com/free-icons/search-engine-optimization" title="search engine optimization icons">Search engine optimization icons created by SBTS2018 - Flaticon</a>
   <a href="https://www.linkedin.com/in/connectsoumyaroy">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="30">
   </a>
