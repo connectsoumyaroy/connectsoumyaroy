@@ -152,18 +152,18 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 
 <p align="center">
   <a href="https://connectsoumyaroy.github.io/">
-    <img src="https://img.icons8.com/?size=100&id=111593&format=png&color=000000" alt="LinkedIn" width="120">
+    <img src="https://img.icons8.com/?size=100&id=111593&format=png&color=000000" alt="LinkedIn" width="120" height="120">
   </a>
   <a href="https://www.linkedin.com/in/connectsoumyaroy">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="120">
   </a>
   <a href="mailto:soumyaroyprofessional@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="100">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="100" height="100">
   </a>
   <a href="https://github.com/connectsoumyaroy">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="110">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="110" height="110">
   </a>
   <a href="https://www.kaggle.com/connectsoumyaroy">
-    <img src="https://img.shields.io/badge/Kaggle-%2300C4CC.svg?logo=kaggle&logoColor=white" alt="Kaggle" width="100">
+    <img src="https://img.shields.io/badge/Kaggle-%2300C4CC.svg?logo=kaggle&logoColor=white" alt="Kaggle" width="100" height="100">
   </a>
 </p>
