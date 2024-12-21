@@ -1,5 +1,4 @@
 </p>
-
 <p align="center">
   <a href="https://connectsoumyaroy.github.io">
     <img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Logo" width="120" height="120">
@@ -16,7 +15,6 @@
 ![Portfolio Image](https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/portfolio.jpg?raw=true)
 
 <p align="center">
-:star: Star me on GitHub — it helps!
 </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" width="100" />
