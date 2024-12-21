@@ -2,10 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" width="100" />
 </p>
 </p>
-<p align="center">
-  <a href="https://connectsoumyaroy.github.io">
-    <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Logo" width="120" height="120">
-  </a>
+  <p align="center">
+  <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="80%">
 </p>
 <hr>
 <p align="center">
