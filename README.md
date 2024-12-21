@@ -108,7 +108,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="40" height="40"/>
     </a>  
     <a href="#">
         <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/82979a2b-ba4b-44f4-b570-2687106559f4" alt="excel" width="40" height="40"/>
