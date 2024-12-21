@@ -1,4 +1,6 @@
 <p align="right">
+<hr>
+
   <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" width="100" />
 </p>
 </p>
@@ -12,6 +14,7 @@
     <strong>Click to view my portfolio</strong>
   </a>
 </p>
+
 <hr>
 
 <p align="center">
