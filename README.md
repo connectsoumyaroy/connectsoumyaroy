@@ -13,9 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/connectsoumyaroy)
 [![Profile Views](https://komarev.com/ghpvc/?username=connectsoumyaroy&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/connectsoumyaroy)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=800&color=00C2FF&center=true&vCenter=true&width=750&lines=⚡+Turning+Data+into+Insights;🚀+Building+Smart+Solutions+⚡" />
-</p>
+<h4>⚡ Turning Data into Insights | Building Smart Solutions ⚡</h4>
 
 </div>
 <!--
