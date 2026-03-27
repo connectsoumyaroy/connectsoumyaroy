@@ -156,6 +156,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white"></a>
 </p>
+<!--
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=connectsoumyaroy](https://github-profile-trophy.vercel.app/?username=connectsoumyaroy&theme=flat&no-frame=true)" alt="connectsoumyaroy" /></a> </p>
@@ -169,7 +170,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connectsoumyaroy&show_icons=true&locale=en&layout=compact" alt="connectsoumyaroy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&locale=en" alt="connectsoumyaroy" /></p>
-
+-->
 ###
 
 ## 🌐 Connect with Me
