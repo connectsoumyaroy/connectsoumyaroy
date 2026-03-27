@@ -14,9 +14,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=connectsoumyaroy&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/connectsoumyaroy)
 
 <h3 align="center">
-  <span style="color:#58A6FF;">⚡ Turning Data into Insights</span> 
-  <span style="color:#00C4CC;">|</span> 
-  <span style="color:#58A6FF;">Building Smart Solutions ⚡</span>
+  ⚡ <b>Turning Data into Insights</b> 
+  <span style="color:#58A6FF;">|</span> 
+  <b>Building Smart Solutions</b> ⚡
 </h3>
 
 </div>
