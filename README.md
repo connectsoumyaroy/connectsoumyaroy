@@ -3,12 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" width="100" />
 </p>
 
-</p>
-<!-- <p align="center">
-  <a href="https://connectsoumyaroy.github.io/">
-    <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="100%">
-  </a> -->
-  <p align="center">
+<p align="center">
   <a href="https://connectsoumyaroy.github.io/">
     <img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ" alt="Thumbnail Image" width="100%">
   </a>
