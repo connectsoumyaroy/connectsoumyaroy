@@ -40,12 +40,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1200&color=0033CC&center=true&vCenter=true&width=750&height=60&lines=Hey+there!+I'm+Soumya+Roy;💻+Coder+%7C+📊+Data+Analytics+Professional;🔬+Data+Science+Explorer+%7C+🌐+Web+Developer;⚙️+Future+Data+Engineer;💰+Finance+Enthusiast+%7C+📈+Business+Curious" 
-      alt="Typing Animation"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
   </a>
 </p>
+<img width="468" height="218" alt="image" src="https://github.com/user-attachments/assets/53967aa3-773a-4400-9e73-c231041b8c67" />
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Central GIF" width="600">
