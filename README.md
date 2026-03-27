@@ -13,7 +13,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/connectsoumyaroy)
 [![Profile Views](https://komarev.com/ghpvc/?username=connectsoumyaroy&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/connectsoumyaroy)
 
-<h4 align="center">⚡✨ Turning Data into Insights | Building Smart Solutions ✨⚡</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=⚡+Turning+Data+into+Insights+%7C+Building+Smart+Solutions+⚡" />
+</p>
 
 </div>
 <!--
@@ -38,13 +40,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Shaking Hands GIF">
 </p>
-
+-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
   </a>
 </p>
--->
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Central GIF" width="600">
 </p>
