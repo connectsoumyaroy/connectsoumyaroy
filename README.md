@@ -1,28 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Soumya%20Roy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%26%20Analytics%20%7C%20Machine%20Learning%20%7C%20Business%20Insights&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Soumya%20Roy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20Frontend%20Developer&descAlignY=55&descSize=16"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=💻+Coder;📊+Data+Analytics+Professional;🔬+Data+Science+Explorer;🌐+Aspiring+Web+Developer;⚙️+Future+Data+Engineer;💰+Finance+Enthusiast;📈+Business+Curious" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=💻+Coder;📊+Data+Analytics+Professional;🔬+Data+Science+Explorer;🌐+Aspiring+Web+Developer;⚙️+Future+Data+Engineer;💰+Passionate+about+Accounting+%26+Finance;📈+Curious+about+Business+%26+Management)](https://git.io/typing-svg)
 
 <br>
 
-<a href="https://www.linkedin.com/in/connectsoumyaroy">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28">
-</a>
-<a href="mailto:soumyaroyprofessional@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="28">
-</a>
-<a href="https://github.com/connectsoumyaroy">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connectsoumyaroy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:soumyaroyprofessional@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/connectsoumyaroy)
+[![Profile Views](https://komarev.com/ghpvc/?username=connectsoumyaroy&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/connectsoumyaroy)
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=58A6FF&style=flat" />
-
-<h4>⚡ Turning Data into Insights ⚡</h4>
+<h4>⚡ Turning Data into Insights | Building Smart Solutions ⚡</h4>
 
 </div>
 <!--
