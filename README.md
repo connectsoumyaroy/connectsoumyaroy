@@ -139,17 +139,21 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=connectsoumyaroy](https://github-profile-trophy.vercel.app/?username=connectsoumyaroy&theme=flat&no-frame=true)" alt="connectsoumyaroy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Lets Connect:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=connectsoumyaroy&theme=flat&no-frame=true" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connectsoumyaroy&show_icons=true&locale=en&layout=compact" alt="connectsoumyaroy" /></p>
+<p align="center">
+  <img src="https://img.shields.io/twitter/follow/connectsoumyaroy?logo=twitter&style=for-the-badge">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&locale=en" alt="connectsoumyaroy" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=connectsoumyaroy&layout=compact" />
+</p>
 
 ###
 
