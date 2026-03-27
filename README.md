@@ -3,17 +3,17 @@
   <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" width="100" />
 </p>
 
-</p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://connectsoumyaroy.github.io/">
-    <img src="https://raw.githubusercontent.com/connectsoumyaroy/connectsoumyaroy/main/cover.jpg" width="100%">
-  </a> -->
-  <p align="center">
-  <a href="https://connectsoumyaroy.github.io/">
-    <img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ" alt="Thumbnail Image" width="100%">
+    <img src="https://raw.githubusercontent.com/connectsoumyaroy/connectsoumyaroy/main/cover.jpg" alt="Thumbnail Image" width="100%">
   </a>
 </p>
 
+<p align="center">
+  <a href="https://connectsoumyaroy.github.io">
+    <strong>Click to view my portfolio</strong>
+  </a>
+</p>
 </p>
 <p align="center">
   <a href="https://connectsoumyaroy.github.io">
