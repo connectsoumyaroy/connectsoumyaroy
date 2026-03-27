@@ -40,7 +40,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1200&color=0033CC&center=true&vCenter=true&width=750&height=60&lines=Hey+there!+I'm+Soumya+Roy;💻+Coder+%7C+📊+Data+Analytics+Professional;🔬+Data+Science+Explorer+%7C+🌐+Web+Developer;⚙️+Future+Data+Engineer;💰+Finance+Enthusiast+%7C+📈+Business+Curious" 
+      alt="Typing Animation"
+    />
   </a>
 </p>
 
