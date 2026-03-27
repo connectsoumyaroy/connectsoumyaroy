@@ -6,7 +6,7 @@
 </p>
 <!-- <p align="center">
   <a href="https://connectsoumyaroy.github.io/">
-    <img src="https://raw.githubusercontent.com/connectsroy/connectsroy/main/cover.jpg" alt="Thumbnail Image" width="100%">
+    <img src="https://raw.githubusercontent.com/connectsoumyaroy/connectsoumyaroy/main/cover.jpg" width="100%">
   </a> -->
   <p align="center">
   <a href="https://connectsoumyaroy.github.io/">
