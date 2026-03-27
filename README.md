@@ -139,7 +139,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connectsoumyaroy" alt="connectsoumyaroy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=connectsoumyaroy](https://github-profile-trophy.vercel.app/?username=connectsoumyaroy&theme=flat&no-frame=true)" alt="connectsoumyaroy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -159,7 +159,7 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/connectsoumyaroy">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
   <a href="mailto:soumyaroyprofessional@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="100" height="30">
