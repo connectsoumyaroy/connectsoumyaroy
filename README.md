@@ -34,6 +34,7 @@
 </p>
 
 <hr>
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Shaking Hands GIF">
 </p>
@@ -43,7 +44,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0033CC&center=true&vCenter=true&width=600&height=70&lines=Hey+everyone!+I'm+Soumya+Roy;Data+Science+Enthusiast;Python+|+SQL+|+ML+|+AI;Always+Learning+New+Things" alt="Scrolling Name Tag" style="font-family: 'Fira Code', monospace; color: #0033CC; font-size: 35px;" />
   </a>
 </p>
-
+-->
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Central GIF" width="600">
 </p>
