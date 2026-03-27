@@ -170,9 +170,9 @@ Currently pursuing an MS in Data Science, I’m immersing myself in advanced dat
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connectsoumyaroy&show_icons=true&locale=en&layout=compact" alt="connectsoumyaroy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connectsoumyaroy&show_icons=true&locale=en" alt="connectsoumyaroy" /></p>
+-->
 
 ###
--->
 ## 🌐 Connect with Me
 
 <p align="center">
